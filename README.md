@@ -1,4 +1,4 @@
-# pyGame-Surgery-Simulator
+#Surgery Simulator
 <img Src="https://github.com/ahuang7101/pyGame-Surgery-Simulator/blob/master/title%20screen.PNG">
 <img Src="https://github.com/ahuang7101/pyGame-Surgery-Simulator/blob/master/Capture2.PNG">
 <h2> Description </h2>
